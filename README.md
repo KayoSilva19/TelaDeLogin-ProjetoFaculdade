@@ -8,7 +8,7 @@
 </br>
     <p aling="center"> Tela de Login e Cadastro Com animação - Projeto Projeto Faculdade</p>
 </br>
-  <img id="logo" src="./src/assets/Tela.png" alt="Logo Do Projeto" width="300" />
+  <img id="logo" src="./src/Assets/Tela.png" alt="Desing Da Tela" width="300" />
    
 </br>
 
