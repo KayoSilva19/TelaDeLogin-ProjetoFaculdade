@@ -6,8 +6,9 @@
 <p>PROJETO EM REACT-NATIVE</p>
 <hr>
 </br>
-    <p aling="center"> Tela de Com animação - Projeto Faculdade  </p>
+    <p aling="center"> Tela de Login e Cadastro Com animação - Projeto Projeto Faculdade</p>
 </br>
+  <img id="logo" src="./src/assets/Tela.png" alt="Logo Do Projeto" width="300" />
    
 </br>
 
@@ -16,7 +17,7 @@
 ```bash
 
     # Clone este repositório  
-    $ git clone <>
+    $ git clone <https://github.com/KayoSilva19/TelaDeLogin-ProjetoFaculdade>
 
     # Acesse a pasta do projeto no terminal/cmd
     $ cd telasAllSuply
